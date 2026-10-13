@@ -34,7 +34,9 @@ Open the `config.json` file in your fork and replace the default client_id with 
 
 ```json
 {
-  b87adaf2-1c66-4768-9813-a6285c799d51
+ {
+  "client_id": "b87adaf2-1c66-4768-9813-a6285c799d51"
+}
 }
 ```
 
